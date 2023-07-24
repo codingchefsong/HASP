@@ -1,8 +1,9 @@
 ## [Project Description](https://laspace.lsu.edu/hasp/documents/presentations/HASP_AHAC_June11_v061611.pdf)
-[HASP Webiste](https://laspace.lsu.edu/hasp/)  
-[HASP Description](https://laspace.lsu.edu/hasp/documents/presentations/HASP_AHAC_June11_v061611.pdf)  
-[Project Documents](/doc/HASP_AHAC_June11_v061611.pdf)  
-Raspberry Pi works as the master, collecting data from 8 Arduino slave devices.  
+- [HASP Webiste](https://laspace.lsu.edu/hasp/)  
+- [HASP Description](https://laspace.lsu.edu/hasp/documents/presentations/HASP_AHAC_June11_v061611.pdf)  
+- [Project Documents](/doc/HASP_AHAC_June11_v061611.pdf)  
+
+Raspberry Pi works as the master with failover and logging, collecting data from 8 Arduino slave devices.  
 
 ## Usage
 - ### Hardware
@@ -15,6 +16,14 @@ Raspberry Pi works as the master, collecting data from 8 Arduino slave devices.
     - python, C++
     - threading, logging, serial
     - numpy, pandas, matplotlib.pyplot
+- ### Features
+    - Mulithreading
+    - Logging events
+    - Clock synchronization with Real Time Clock
+    - Port Scan add and remove threads
+    - RF Communication
+    - Serial Communication
+
 ## Data graphs
 <picture>
 <img alt="DEVICE_ID_2A.png" src="DataGraph/DEVICE_ID_2A.png">
