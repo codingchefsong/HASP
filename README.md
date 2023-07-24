@@ -1,5 +1,7 @@
-## Project Description
-[View the PDF file](doc/HASP_AHAC_June11_v061611.pdf)  
+## [Project Description](https://laspace.lsu.edu/hasp/documents/presentations/HASP_AHAC_June11_v061611.pdf)
+[HASP Webiste](https://laspace.lsu.edu/hasp/)  
+[HASP Description](https://laspace.lsu.edu/hasp/documents/presentations/HASP_AHAC_June11_v061611.pdf)  
+[Project Documents](/doc/HASP_AHAC_June11_v061611.pdf)  
 Raspberry Pi works as the master, collecting data from 8 Arduino slave devices.  
 
 ## Usage
