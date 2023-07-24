@@ -16,7 +16,13 @@ Raspberry Pi works as the master, collecting data from 8 Arduino slave devices.
 ## Data graphs
 <picture>
 <img alt="DEVICE_ID_2A.png" src="DataGraph/DEVICE_ID_2A.png">
+</picture>
+<picture>
 <img alt="DEVICE_ID_3A.png" src="DataGraph/DEVICE_ID_3A.png">
+</picture>
+<picture>
 <img alt="DEVICE_ID_3B.png" src="DataGraph/DEVICE_ID_3B.png">
+</picture>
+<picture>
 <img alt="DEVICE_ID_4.png" src="DataGraph/DEVICE_ID_4.png">
 </picture>
