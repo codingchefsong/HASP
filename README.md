@@ -24,6 +24,11 @@ Raspberry Pi works as the master with failover and logging, collecting data from
     - RF Communication
     - Serial Communication
 
+## Screenshots
+<picture>
+<img alt="Screenshot.png" src="Screenshot/Screenshot.png">
+</picture>
+
 ## Data graphs
 <picture>
 <img alt="DEVICE_ID_2A.png" src="DataGraph/DEVICE_ID_2A.png">
